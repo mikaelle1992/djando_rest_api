@@ -1,0 +1,4 @@
+#Ignora  pycache do Djando
+*.pyc
+
+
